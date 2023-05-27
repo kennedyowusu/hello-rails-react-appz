@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 
 # This controller handles greetings in the API.
 class GreetingController < ApplicationController

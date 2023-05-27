@@ -1,4 +1,4 @@
-
+# frozen_string_literal: true
 
 # Ths is the application mailer.
 class ApplicationMailer < ActionMailer::Base
