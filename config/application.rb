@@ -1,4 +1,4 @@
-
+# frozen_string_literal: true
 
 # This is the application record.
 require_relative 'boot'
